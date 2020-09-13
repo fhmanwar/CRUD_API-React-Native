@@ -1,0 +1,12 @@
+{
+  "name": "crudApi",
+  "displayName": "crudApi",
+  "expo": {
+    "name": "crudApi",
+    "slug": "crudApi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
